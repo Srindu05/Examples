@@ -1,4 +1,4 @@
-package built_in_packages;
+package org.tnsif.sf.c2tc.built_in_packages;
 
 public class Built_in_Examples {
 
